@@ -1,3 +1,20 @@
+# What is React?
+React is a JavaScript library for building interactive user interfaces.
+
+# What is Next.js?
+Next.js is a flexible React framework that gives you building blocks to create fast, full-stack web applications.
+
+You can use React to build your UI, then incrementally adopt Next.js features to solve common application requirements such as routing, data fetching, and caching - all while improving the developer and end-user experience.
+
+
+# What is the DOM?
+The DOM is an object representation of the HTML elements. It acts as a bridge between your code and the user interface, and has a tree-like structure with parent and child relationships.
+
+
+
+
+
+
 # React Fundamentals Guide
 
 ## Table of Contents
