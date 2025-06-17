@@ -10,6 +10,9 @@ You can use React to build your UI, then incrementally adopt Next.js features to
 # What is the DOM?
 The DOM is an object representation of the HTML elements. It acts as a bridge between your code and the user interface, and has a tree-like structure with parent and child relationships.
 
+# What is JSX?
+JSX is a syntax extension for JavaScript that allows you to describe your UI in a familiar HTML-like syntax. The nice thing about JSX is that apart from following three JSX rules, you don't need to learn any new symbols or syntax outside of HTML and JavaScript.
+
 
 
 
