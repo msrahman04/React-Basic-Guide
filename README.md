@@ -13,6 +13,13 @@ The DOM is an object representation of the HTML elements. It acts as a bridge be
 # What is JSX?
 JSX is a syntax extension for JavaScript that allows you to describe your UI in a familiar HTML-like syntax. The nice thing about JSX is that apart from following three JSX rules, you don't need to learn any new symbols or syntax outside of HTML and JavaScript.
 
+# What is components?
+User interfaces can be broken down into smaller building blocks called components.
+Components allow you to build self-contained, reusable snippets of code. If you think of components as LEGO bricks, you can take these individual bricks and combine them together to form larger structures. If you need to update a piece of the UI, you can update the specific component or brick.
+s
+This modularity allows your code to be more maintainable as it grows because you can add, update, and delete components without touching the rest of our application.
+
+The nice thing about React components is that they are just JavaScript. Let's see how you can write a React component, from a JavaScript perspective:
 
 
 
