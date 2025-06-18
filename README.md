@@ -1,3 +1,6 @@
+# The React foundations link :
+https://nextjs.org/learn/react-foundations
+
 # What is React?
 React is a JavaScript library for building interactive user interfaces.
 
