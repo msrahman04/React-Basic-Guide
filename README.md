@@ -19,7 +19,7 @@ Components allow you to build self-contained, reusable snippets of code. If you 
 s
 This modularity allows your code to be more maintainable as it grows because you can add, update, and delete components without touching the rest of our application.
 
-The nice thing about React components is that they are just JavaScript. Let's see how you can write a React component, from a JavaScript perspective:
+The nice thing about React components is that they are just JavaScript.
 
 
 
